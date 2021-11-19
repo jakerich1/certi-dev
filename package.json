@@ -2,6 +2,7 @@
   "name": "certi-front",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jakerich1.github.io/certi-dev",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -35,12 +36,6 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb": "^19.0.0",
-    "eslint-plugin-import": "^2.25.3",
-    "eslint-plugin-jsx-a11y": "^6.5.1",
-    "eslint-plugin-react": "^7.27.1",
-    "eslint-plugin-react-hooks": "^4.3.0",
     "gh-pages": "^3.2.3"
   }
 }

@@ -15,7 +15,7 @@ const Static1 = function () {
       className="static1"
       style={{
         backgroundPosition: 'center',
-        backgroundImage: 'url("/images/img_first_section_bg@2x.png")',
+        backgroundImage: 'url("./images/img_first_section_bg@2x.png")',
         backgroundAttachment: isMobile ? 'scroll' : 'fixed',
         backgroundSize: 'cover',
       }}

@@ -1,5 +1,3 @@
-/* eslint-disable jsx-a11y/mouse-events-have-key-events */
-/* eslint-disable react/prop-types */
 import { React, useState } from 'react';
 import './style.scss';
 
